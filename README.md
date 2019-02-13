@@ -1,5 +1,6 @@
-# ComputationalTools_Lessons
-Lessons for Computatoinal Tools course taught in the Spring 2017
+# Computational Tools for LIfe Science Research
+## Spring 2017
+Main topics: Linux and R
 
 [Lesson1: Course Introduction and Software Setup](http://htmlpreview.github.io/?https://github.com/AnnaWilliford/ComputationalTools_Lessons/blob/gh-pages/Lesson1_LinuxSetUp.html)
 
