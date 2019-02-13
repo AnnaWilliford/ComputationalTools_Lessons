@@ -24,7 +24,7 @@
 
 [Lesson10: Regular Expressions](https://rawgit.com/AnnaWilliford/ComputationalTools_Lessons/master/Lesson10_RegularExpressions.html)
 
-[Lesson11: AWK I](https://rawgit.com/AnnaWilliford/ComputationalTools_Lessons/master/Lesson11_Awk.html)
+[Lesson11: AWK I](https://github.com/AnnaWilliford/ComputationalTools_Lessons/blob/master/Lesson11_Awk.html)
 
 [Lesson12: AWK II](https://rawgit.com/AnnaWilliford/ComputationalTools_Lessons/master/Lesson12_AWKII.html)
 
